@@ -31,6 +31,16 @@ const payload_map = [
     //     supportedFirmwares: ["1.", "2.", "3.", "4.", "5."]
     // },
     {
+        displayTitle: "etaHEN",
+        description: "All-in-one HEN",
+        fileName: "etaHEN-1.8B.bin",
+        author: "LightningMods_, sleirsgoevy, ChendoChap, astrelsky, illusion",
+        projectSource: "https://github.com/LightningMods/etaHEN",
+        binarySource: "https://github.com/LightningMods/etaHEN/releases/tag/1.08b",
+        version: "1.8 beta",
+        supportedFirmwares: ["3.", "4."]
+    },
+    {
         displayTitle: "ps5-kstuff",
         description: "FPKG enabler",
         fileName: "ps5-kstuff.bin",
